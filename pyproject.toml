@@ -8,7 +8,7 @@ authors = ["Daniel Eades <danieleades@hotmail.com>"]
 python = "^3.8"
 Sphinx = "^3.4.3"
 sphinxcontrib-needs = "^0.6.0"
-sphinxcontrib-plantuml = "^0.19"
+sphinxcontrib-plantuml = "^0.20"
 sphinx-rtd-theme = "^0.5.1"
 
 [tool.poetry.dev-dependencies]
